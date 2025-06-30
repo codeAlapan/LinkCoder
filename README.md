@@ -53,7 +53,9 @@ Create a .env file in the root and configure:
 ```
 envPORT=5000
 MONGO_URI=your_mongodb_uri
- JWT_SECRET=your_jwt_secret  COOKIE_SECRET=your_cookie_secret
+JWT_SECRET=your_jwt_secret  
+COOKIE_SECRET=your_cookie_secret
+[sorry currently can't provide this sensetive information]
 ```
 
 ### Run the Server
